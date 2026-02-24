@@ -82,7 +82,7 @@ public class StudentData {
         	 exit();
         	 break;
          default:
-        	 System.out.println("Invalid choice Enter");
+        	 System.out.println("Invalid choice enter");
          }
 		}while(choice!=6);
             
